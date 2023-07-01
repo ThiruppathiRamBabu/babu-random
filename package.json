@@ -1,0 +1,25 @@
+{
+  "name": "babu-random-generator",
+  "version": "1.0.0",
+  "description": "Random Number Generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiruppathiRamBabu/babu-random.git"
+  },
+  "keywords": [
+    "Random",
+    "Number",
+    "Generator"
+  ],
+  "author": "Babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiruppathiRamBabu/babu-random/issues"
+  },
+  "homepage": "https://github.com/ThiruppathiRamBabu/babu-random#readme"
+}
