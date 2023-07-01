@@ -10,8 +10,15 @@ Run `npm i babu-random-generator`
 
 ````
 
-import brg from `babu-random-generator`;
+const randomNumberGenerator = require('babu-random-generator');
 
-brg (5,10);
+console.log('result = ',randomNumberGenerator(5,50));
+
+// result = 9
+
+// result = 36
+
+// result = 23
+
 
 ````
